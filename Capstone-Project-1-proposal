@@ -1,0 +1,17 @@
+# Springboard-Capstone-Project-1 Proposal:
+ 
+Title: Estimate the price of rooms on Airbnb
+
+Problem: If you look into price of Airbnb rooms in a particular city you will find a wide range of prices. So how do we determine the price of a room before we post it on Airbnb. 
+
+Who might care? Anybody who wants to know the best price of a room which is going to be advertised on Airbnb. He will learn what are factors which is to be considered when assigning the price and what attributes he can add to the home to improve the price. Without the prediction he might ask for a lesser price and incur loss, or he might ask for a higher price and lose customers and hence incur loss.
+
+Data: The data can be obtained from http://insideairbnb.com/get-the-data.html 
+
+Approach: First plot all the attributes against price and see how each of them affect the price. What the major attributes impacting the price. Plot histograms, bar charts and box plots to check major factors and outliers. The data then needs to be cleaned to remove noise in data. After that apply different Machine learning models to find out the best model to predict the price.
+
+Possible limitations: There are other factors which might affect the price from time to time like economic conditions, recent extreme weather conditions or special occasions in the city which are not considered here.
+
+Deliverables:
+1.	Code for Data cleaning, analysis and Predictive Model 
+2.	Write up on the capstone project
